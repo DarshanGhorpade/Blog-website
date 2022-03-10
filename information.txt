@@ -1,0 +1,8 @@
+node_modules: this is where all of our project dependencies live including the react library and any of the package we want to install will go here
+
+src folder:
+all the components we will write will be in this folder, upto 99% of code is written in src folder
+
+package.json:
+lists the all dependencies of the application
+
